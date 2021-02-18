@@ -1,0 +1,40 @@
+body{
+    background-color: grey;
+}
+header,nav,footer{
+    background-color: white;
+    text-align: center;
+    color: grey;
+    padding: 50px;
+}
+.main {
+    display: flex;
+
+}
+section{
+    background-color: white;
+    text-align: center;
+    color: grey;
+    padding: 100px;
+    width: 50%;
+    margin-right: 20px;
+}
+article{
+    background-color: grey;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+.heading,.para{
+    background-color: white;
+    text-align: center;
+    color: grey;
+    padding: 20px;
+} 
+aside{
+    background-color: white;
+    text-align: center;
+    color: grey;
+    padding: 50px;
+    width: 50%;
+}
